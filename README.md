@@ -27,7 +27,7 @@ The scripts work in tandem to pull data and populate Google Sheets, making it ea
    The script will write data to these sheets based on the tab name.
 
 2. **Create an Apps Script Project**  
-   Go to Extension < Apps Scripts and start a new project.
+   Go to Extension > Apps Scripts and start a new project.
 
 3. **Copy the Code**  
    Copy the content of the `.js` files in this repository into your new Apps Script project.  
